@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo apt install build-essential flex bison
-./contrib/download-dependencies
+sudo apt install build-essential texinfo automake flex bison gettext pkgconf libtool groff
